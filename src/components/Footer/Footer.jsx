@@ -101,7 +101,7 @@ import 'aos/dist/aos.css'
       </div>
 
       <div className="copyRightDiv flex">
-        <p>Courtesy Design | Developed By <a href="">Ravindra</a></p>
+        <p>Courtesy Design | Developed By <a href="">SUSMITHA MUNUKUTLA</a></p>
       </div>
     </div>
   )
